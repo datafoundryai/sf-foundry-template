@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Primary_Competitor__c</fullName>
+    <label>Primary Competitor</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <value>
+                <fullName>Amazon</fullName>
+                <default>false</default>
+                <label>Amazon</label>
+            </value>
+            <value>
+                <fullName>Apex Manufacturing</fullName>
+                <default>false</default>
+                <label>Apex Manufacturing</label>
+            </value>
+            <value>
+                <fullName>Apple</fullName>
+                <default>false</default>
+                <label>Apple</label>
+            </value>
+            <value>
+                <fullName>DataWeave</fullName>
+                <default>false</default>
+                <label>DataWeave</label>
+            </value>
+            <value>
+                <fullName>Delta Airlines</fullName>
+                <default>false</default>
+                <label>Delta Airlines</label>
+            </value>
+            <value>
+                <fullName>Dynamic Enterprises</fullName>
+                <default>false</default>
+                <label>Dynamic Enterprises</label>
+            </value>
+            <value>
+                <fullName>Fusion Dynamics</fullName>
+                <default>false</default>
+                <label>Fusion Dynamics</label>
+            </value>
+            <value>
+                <fullName>Global Retail Corp</fullName>
+                <default>false</default>
+                <label>Global Retail Corp</label>
+            </value>
+            <value>
+                <fullName>Global Tech Solutions</fullName>
+                <default>false</default>
+                <label>Global Tech Solutions</label>
+            </value>
+            <value>
+                <fullName>Google</fullName>
+                <default>false</default>
+                <label>Google</label>
+            </value>
+            <value>
+                <fullName>Innovate Financial Group</fullName>
+                <default>false</default>
+                <label>Innovate Financial Group</label>
+            </value>
+            <value>
+                <fullName>Meta</fullName>
+                <default>false</default>
+                <label>Meta</label>
+            </value>
+            <value>
+                <fullName>Microsoft</fullName>
+                <default>false</default>
+                <label>Microsoft</label>
+            </value>
+            <value>
+                <fullName>Momentum Corp.</fullName>
+                <default>false</default>
+                <label>Momentum Corp.</label>
+            </value>
+            <value>
+                <fullName>NextGen Retail</fullName>
+                <default>false</default>
+                <label>NextGen Retail</label>
+            </value>
+            <value>
+                <fullName>Sterling Bank</fullName>
+                <default>false</default>
+                <label>Sterling Bank</label>
+            </value>
+            <value>
+                <fullName>Summit Logistics</fullName>
+                <default>false</default>
+                <label>Summit Logistics</label>
+            </value>
+            <value>
+                <fullName>TechCorp</fullName>
+                <default>false</default>
+                <label>TechCorp</label>
+            </value>
+            <value>
+                <fullName>The Fashion Hub</fullName>
+                <default>false</default>
+                <label>The Fashion Hub</label>
+            </value>
+            <value>
+                <fullName>Visionary Logistics</fullName>
+                <default>false</default>
+                <label>Visionary Logistics</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
